@@ -1,5 +1,9 @@
+package HW2;
 import java.io.IOException;
 import java.util.logging.*;
+
+import HW1.task2;
+import HW3.lib;
 public class task5 {
     public static void main(String[] args) throws IOException {
         Logger logger = Logger.getLogger(task2.class.getName());

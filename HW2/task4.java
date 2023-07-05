@@ -1,3 +1,6 @@
+import HW3.lib;
+
+package HW2;
 public class task4 {
     public static void main(String[] args) throws Exception {
         String [] arrayData =  lib.ReadLineFromFile("dataForTask4.txt");

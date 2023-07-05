@@ -1,3 +1,4 @@
+package HW1;
 public class task2 {
     private static boolean isNumberSimple(int n) {
         for (int index = 2; index < n; index++) {

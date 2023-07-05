@@ -1,3 +1,4 @@
+package HW1;
 import java.util.Scanner;
 public class task3 {
     static int getSum(int a, int b) {
